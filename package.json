@@ -1,0 +1,26 @@
+{
+  "name": "staj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "axios": "^1.4.0",
+    "combined-stream": "^1.0.8",
+    "commander": "^11.0.0",
+    "delayed-stream": "^1.0.0",
+    "dotenv": "^16.3.1",
+    "follow-redirects": "^1.15.2",
+    "form-data": "^4.0.0",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35",
+    "proxy-from-env": "^1.1.0",
+    "xmldom": "^0.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "node currency_rates.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
